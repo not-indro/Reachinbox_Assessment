@@ -104,11 +104,11 @@ const InboxSection: React.FC<mailProps> = ({ handleChangeEmail }) => {
         {/* {
           data?.length > 0 && data.map((item: any) => {
             return <div key={item.id}>
-              <InboxMailCard currentMode={currentMode} threadId={1} id={1} fromEmail='bhvuvi@gmail.com' subject='Hello' handleChangeEmail={handleChangeEmail} />
+              <InboxMailCard currentMode={currentMode} threadId={1} id={1} fromEmail='indranilbain14@gmail.com' subject='Hello' handleChangeEmail={handleChangeEmail} />
             </div>
           })
         } */}
-        <InboxMailCard currentMode={currentMode} threadId={1} id={1} fromEmail='bhvuvi@gmail.com' subject='Hello' handleChangeEmail={handleChangeEmail} />
+        <InboxMailCard currentMode={currentMode} threadId={1} id={1} fromEmail='indranilbain14@gmail.com' subject='Hello' handleChangeEmail={handleChangeEmail} />
       </div>
     </div>
   )
