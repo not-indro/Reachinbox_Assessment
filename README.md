@@ -14,7 +14,7 @@ Welcome to the frontend application for ReachInBox, crafted using Next.js and Ty
 The application is deployed on Vercel and is accessible [here](https://reachinbox-assessment-sigma.vercel.app/).
 
 ## 🎥 Demo Video
-Watch a demonstration of the application [here](https://www.loom.com/share/f3d1c2725b8a4b1896fc3f3760eeb9dc).
+Watch a demonstration of the application [here](https://www.loom.com/share/1ffcfce150354e9089889c8bdcfd8067?sid=d579a557-095a-430e-919f-19902b3344d9).
 
 ## 🛠️ How to Run Locally
 
