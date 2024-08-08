@@ -1,22 +1,22 @@
-# ReachInBox Frontend Assignment
+# 📬 ReachInBox Frontend Assignment
 
-## Overview
+## 📝 Overview
 Welcome to the frontend application for ReachInBox, crafted using Next.js and TypeScript as part of an assignment. This application provides essential email management features with a modern, responsive interface.
 
-## Technologies Used
+## 💻 Technologies Used
 - **TypeScript**: Ensures code reliability through type safety.
 - **Next.js**: A robust React framework for server-side rendering and static site generation.
 - **Tailwind CSS**: A utility-first CSS framework for efficient styling.
 - **Axios**: A promise-based HTTP client for API requests.
 - **jwt-decode**: A library for decoding JSON Web Tokens.
 
-## Deployment
+## 🌐 Deployment
 The application is deployed on Vercel and is accessible [here](https://reachinbox-assessment-sigma.vercel.app/).
 
-## Demo Video
+## 🎥 Demo Video
 Watch a demonstration of the application [here](https://www.loom.com/share/f3d1c2725b8a4b1896fc3f3760eeb9dc).
 
-## How to Run Locally
+## 🛠️ How to Run Locally
 
 ### Installation
 
@@ -41,14 +41,14 @@ Watch a demonstration of the application [here](https://www.loom.com/share/f3d1c
    http://localhost:3000
    ```
 
-## Features
-- **Authentication**: Secure user login and token management.
-- **Fetch Emails**: Retrieve emails from the server.
-- **Send Emails**: Compose and send new emails.
-- **Delete Emails**: Remove unwanted emails.
+## ✨ Features
+- **🔒 Authentication**: Secure user login and token management.
+- **📥 Fetch Emails**: Retrieve emails from the server.
+- **✉️ Send Emails**: Compose and send new emails.
+- **🗑️ Delete Emails**: Remove unwanted emails.
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
 
-## License
+## 📄 License
 This project is licensed under the MIT License.
