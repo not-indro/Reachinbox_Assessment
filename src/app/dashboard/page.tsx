@@ -40,7 +40,7 @@ const Dashboard = () => {
     setSelectedMail([{
       fromName: "Indranil Bain", fromEmail: "indranilbain14@gmail.com", toEmail: "indranilbain@gmail.com", subject: "New Product Launch", body: `Hi {FIRST_NAME},
 
-I would like to introduce you to SaaSgrow, a productized design service specifically tailored for saas startups.Our aim is to help you enhance the user experience and boost the visual appeal of your software products.
+I'd like to introduce you to Reachinbox, our specialized design service tailored specifically for SaaS startups. Our mission at SaaSgrow is to help you enhance the user experience and boost the visual appeal of your software products. With our expertise, we're here to support you in making your software more engaging and visually compelling for your users.
 `}])
   }
 
